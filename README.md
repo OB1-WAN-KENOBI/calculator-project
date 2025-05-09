@@ -31,7 +31,7 @@ Whether you need a quick arithmetic tool or just want to explore a Webpack-power
 ## Demo
 
 > Live demo available at:  
-> `[https://USERNAME.github.io/calculator-project/](https://ob1-wan-kenobi.github.io/calculator-project/)`
+> <a>https://ob1-wan-kenobi.github.io/calculator-project/</a>
 
 
 ---
